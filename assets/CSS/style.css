@@ -4,6 +4,7 @@ h1 {
     width:300px;
     background:lightblue;
     padding-top:0%;
+    text-align:center;
 }
 nav {
     float:right;
