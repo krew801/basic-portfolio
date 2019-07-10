@@ -42,7 +42,7 @@ body, html {
     min-height: 100%;
 }
 body {
-    background-image: url("../Desktop/ep_naturalwhite 2/ep_naturalwhite.jpg");
+    background-image: url("/Users/alsmith/Desktop/ep_naturalwhite 2/ep_naturalwhite.jpg");
     background-repeat:no-repeat;
     background-size:cover;
 }
